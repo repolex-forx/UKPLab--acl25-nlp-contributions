@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl25-nlp-contributions",
+  "versions": [
+    {
+      "commit": "553cdccabe8c06ac995704682c546bcfa1e6418e",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:51:13.803183+00:00"
+    }
+  ]
+}
