@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl25-nlp-contributions/commit/553cdccabe8c06ac995704682c546bcfa1e6418e",
       "git:hexsha": "553cdccabe8c06ac995704682c546bcfa1e6418e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
